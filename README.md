@@ -72,7 +72,7 @@ Check your application status by entering your email. If approved, download your
 
 ## Screenshots
 
-[DEMONSTRATION VIDEO](https://www.linkedin.com/posts/shashwat-thakur-2b2618354_webdevelopment-firebase-idcardsystem-activity-7319780511235637249-vf8L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg)
+[DEMONSTRATION VIDEO](https://www.linkedin.com/posts/shwat_webdevelopment-firebase-idcardsystem-activity-7319780511235637249-4pk1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg)
 
 ---
 
